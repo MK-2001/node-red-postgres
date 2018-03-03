@@ -1,0 +1,24 @@
+{
+  "name": "MK-2001/node-red-contrib-postgres",
+  "version": "0.0.1",
+  "description": "A Node-RED node to Click your PostgreSql Statements",
+  "dependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MK-2001/node-red-postgres/"
+  },
+  "license": "Apache",
+  "keywords": [
+    "node-red",
+    "postgres",
+    "postgresql"
+  ],
+  "node-red": {
+    "nodes": {
+      "PostgreSql": "postgres.js"
+    }
+  },
+  
+}
